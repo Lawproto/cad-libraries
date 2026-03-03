@@ -347,3 +347,5 @@ start_model_dir .\config\standard_files
 display shadewithedges
 pro_table_dir .\config\tables
 open_simplified_rep_by_default Last Stored
+orientation isometric
+save_file_iterations no
