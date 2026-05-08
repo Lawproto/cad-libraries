@@ -114,7 +114,7 @@ template_solidpart .\config\standard_files\start_part.prt.1
 !
 ! Model Display ___________________________________________
 !
-display_axes NO
+display_axes YES
 display_coord_sys NO
 display_points no
 display_planes no
@@ -347,3 +347,4 @@ start_model_dir .\config\standard_files
 display shadewithedges
 pro_table_dir .\config\tables
 open_simplified_rep_by_default Last Stored
+orientation isometric
