@@ -9,7 +9,7 @@ assignees: ''
 
 | Description            | Field                                          |
 |:-----------------------|:-----------------------------------------------|
-| Project                | [Intended project for the compoent]            |
+| Project                | [Intended project for the component]            |
 | Alias (file name)      | [Norm + measure] OR [manufacturer + code] [^1] |
 | Applicant              | Name Surname, @username                        |
 | Supervisor             | Name Surname, @username                        |
